@@ -1,0 +1,33 @@
+The bookworld site overall looks pretty good.
+
+The main goal of the site is to attract more online users to buy books or media productions in the bookworld site.
+
+There might be a few things can be improved.
+
+1. As the develop, I want to improve SEO for the bookworld site.
+When I type "books online store" in the search in google,  booktopia comes to first,bookworld comes to third. 
+If bookworld come to first in the search result, then there will more visitors to the site.
+
+2. As the develop, I want to improve the performance of the site.
+When I visit the homepage of the site at home, the first page load speed is 4.73s which should be 
+reduced to less than 100ms if it is cached property.
+
+3. As the develop, I want to use some profiling tools to find out the slowest thread of the site,such as newrelic.
+
+4. As the develop, I want to use Google Tag Manager for the GA tracking which is easy to use.
+
+5. As the develop, I want to combined all the javascripts into one single file by utilizing gruntjs.
+
+6. As the develop, I want to use HTML5, bootstrap, angular JS for the front end.
+
+7. As the develop, I want to make the API as fast as possible by Ajax call, the API response time should be cached after the first call.
+
+8. As the site visitor, I want to find the book as cheap as possible and I want to know the same book price in the other store.
+
+
+
+
+ 
+
+
+
